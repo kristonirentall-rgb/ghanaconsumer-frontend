@@ -128,7 +128,7 @@ The incident serves as a reminder for fuel stations to prioritize customer satis
     image: controversy,
     images: [controversy, controversy1, controversy2],
     slug: 'goshers-star-oil-dispute',
-    updatedAt: '2025-07-28T09:15:00.000Z',
+    updatedAt: '2025-07-05T09:15:00.000Z',
   },
   {
     id: '6',
@@ -151,7 +151,7 @@ The incident serves as a reminder for fuel stations to prioritize customer satis
     image: ncap,
     images: [ncap,ncap2],
     slug: 'nca-multichoice-resolution',
-    updatedAt: '2025-09-7T09:15:00.000Z',
+    updatedAt: '2025-09-07T09:15:00.000Z',
   },
 ];
 
