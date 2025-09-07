@@ -1,8 +1,0 @@
-Options -MultiViews
-RewriteEngine On
-RewriteBase /
-
-# Redirect everything to index.html (for React Router)
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^ index.html [L]
