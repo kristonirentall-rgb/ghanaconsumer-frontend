@@ -18,6 +18,11 @@ import controversy1 from '../images/controversy1.jpeg';
 import controversy2 from '../images/controversy2.jpeg';
 import ncap from '../images/ncap.jpeg';
 import ncap2 from '../images/ncap2.jpeg';
+
+import hmm1 from '../images/hmm1.jpeg';
+import hmm2 from '../images/hmm2.jpeg';
+
+import joy1 from '../images/joy1.jpeg';
 import dstvImage from '../images/dstvImage.jpeg';
 
 // Import additional images for the slider
@@ -150,6 +155,90 @@ The incident serves as a reminder for fuel stations to prioritize customer satis
     category: 'Lifestyle',
     image: ncap,
     images: [ncap,ncap2],
+    
+    slug: 'nca-multichoice-resolution',
+    updatedAt: '2025-09-07T09:15:00.000Z',
+  },
+  {
+    id: '7',
+    title: 'CPA SLAMS PURC OVER "UNREALISTIC" TARIFF HIKES',
+    excerpt:
+      'Accra, december 4- Consumer Protection Agency Demands Withdrawal of Water and Electricity Tariff Increases',
+    content: `
+      <p class="mb-4">The Consumer Protection Agency (CPA) has expressed shock and disappointment over the recent announcement by the Public Utilities Regulatory Commission (PURC) to increase water and electricity tariffs by 15.92% and 9.82% respectively, effective January 1, 2026.
+
+In a statement, the CPA described the decision as "unrealistic" and questioned the rationale behind passing on the costs of galamsey cleanup to consumers. "It is shocking and bizarre that consumers are expected to bear the cost of addressing a problem caused by illegal mining activities, which is the government's responsibility to regulate," the statement read.
+
+The CPA also criticized PURC for failing to address inefficiencies within utility service providers, citing ECG's overspending and transmission losses as examples. The agency expressed concern over the lack of plans to recover debts owed by state-owned institutions to ECG and Ghana Water, which affects their financial stability.
+
+"We demand that PURC withdraw the announced tariff increases and engage stakeholders to find better solutions to the inefficiencies plating the sector," the CPA stated.
+
+The agency highlighted the plight of consumers who continue to suffer from poor service delivery, including water rationing and lack of access to clean water in major cities.
+
+The CPA has posed key questions to PURC, seeking clarification on how the agency plans to address the challenges facing the sector.
+
+The statement concluded with a warning that consumers will not accept unjustified tariff increases without a comprehensive plan to improve service delivery.
+
+</p>
+     <h1>CPA DEMANDS:</h1>
+      <p class="mb-4">
+
+•⁠  ⁠Withdrawal of tariff increases
+•⁠  ⁠Engagement with stakeholders to address inefficiencies
+•⁠  ⁠Plans to recover debts owed by state-owned institutions
+•⁠  ⁠Improved service delivery
+</p>
+
+      <h1>KEY ISSUES:</h1>
+      <p class="mb-4">
+
+•⁠  ⁠Unfair burden on consumers for galamsey cleanup costs
+•⁠  ⁠Inefficiencies in utility service providers not addressed
+•⁠  ⁠Lack of plans to recover debts owed by state-owned institutions</p>
+    `,
+    category: 'Lifestyle',
+    image: hmm1,
+    images: [hmm1,hmm2],
+    slug: 'nca-multichoice-resolution',
+    updatedAt: '2025-09-07T09:15:00.000Z',
+  },
+  {
+    id: '8',
+    title: 'FDA CALL ON BARN ON LEAD-LEAD DADESEN COOKING POTS OVER HEALTH CONCERN',
+    excerpt:
+      'Accra, december 4- Consumer Protection Agency Demands Withdrawal of Water and Electricity Tariff Increases',
+    content: `
+      <p class="mb-4">*FDA CALLS FOR BAN ON LEAD-LADEN "DADESEN" COOKING POTS OVER HEALTH CONCERNS*
+
+The Food and Drugs Authority (FDA) is sounding the alarm on locally manufactured cooking pots, known as "Dadesen", due to high levels of lead used in their production. The FDA's Eastern Regional Manager, Mrs. Anita Owusu-Kuffour, revealed this during a stakeholder engagement in Somanya, warning that the lead poses serious health risks, including Parkinson's disease, kidney failure, and cancer.
+
+The FDA's market surveillance found that some local metalworkers add lead to soften metals during production, often unaware of the health implications. Even coated versions are not safe, as the protective layer can wear off, exposing users to heavy metals.
+
+Mrs. Owusu-Kuffour advised the public to switch to high-quality stainless steel cookware, citing its safety and durability. The FDA assures the public of its continued monitoring and engagement with local artisans to ensure compliance with safety standards.
+
+*Dadesen pots may contain lead, posing health risks*
+*Switch to stainless steel cookware, FDA advises*
+*Coated pots not safe, warns FDA*
+</p>
+     <h1>CPA DEMANDS:</h1>
+      <p class="mb-4">
+
+•⁠  ⁠Withdrawal of tariff increases
+•⁠  ⁠Engagement with stakeholders to address inefficiencies
+•⁠  ⁠Plans to recover debts owed by state-owned institutions
+•⁠  ⁠Improved service delivery
+</p>
+
+      <h1>KEY ISSUES:</h1>
+      <p class="mb-4">
+
+•⁠  ⁠Unfair burden on consumers for galamsey cleanup costs
+•⁠  ⁠Inefficiencies in utility service providers not addressed
+•⁠  ⁠Lack of plans to recover debts owed by state-owned institutions</p>
+    `,
+    category: 'Lifestyle',
+    image: joy1,
+    images: [joy1],
     slug: 'nca-multichoice-resolution',
     updatedAt: '2025-09-07T09:15:00.000Z',
   },
