@@ -23,6 +23,8 @@ import hmm1 from '../images/hmm1.jpeg';
 import hmm2 from '../images/hmm2.jpeg';
 
 import joy1 from '../images/joy1.jpeg';
+
+import star1 from '../images/star1.jpeg';
 import dstvImage from '../images/dstvImage.jpeg';
 
 // Import additional images for the slider
@@ -181,20 +183,25 @@ The statement concluded with a warning that consumers will not accept unjustifie
 
 </p>
      <h1>CPA DEMANDS:</h1>
-      <p class="mb-4">
-
-•⁠  ⁠Withdrawal of tariff increases
-•⁠  ⁠Engagement with stakeholders to address inefficiencies
-•⁠  ⁠Plans to recover debts owed by state-owned institutions
-•⁠  ⁠Improved service delivery
+     <p class="mb-4">
+  <ul class="list-disc ml-6">
+    <li>Withdrawal of tariff increases</li>
+    <li>Engagement with stakeholders to address inefficiencies</li>
+    <li>Plans to recover debts owed by state-owned institutions</li>
+    <li>Improved service delivery</li>
+  </ul>
 </p>
 
-      <h1>KEY ISSUES:</h1>
-      <p class="mb-4">
+<h1>KEY ISSUES:</h1>
 
-•⁠  ⁠Unfair burden on consumers for galamsey cleanup costs
-•⁠  ⁠Inefficiencies in utility service providers not addressed
-•⁠  ⁠Lack of plans to recover debts owed by state-owned institutions</p>
+<p class="mb-4">
+  <ul class="list-disc ml-6">
+    <li>Unfair burden on consumers for galamsey cleanup costs</li>
+    <li>Inefficiencies in utility service providers not addressed</li>
+    <li>Lack of plans to recover debts owed by state-owned institutions</li>
+  </ul>
+</p>
+
     `,
     category: 'Lifestyle',
     image: hmm1,
@@ -204,41 +211,48 @@ The statement concluded with a warning that consumers will not accept unjustifie
   },
   {
     id: '8',
-    title: 'FDA CALL ON BARN ON LEAD-LEAD DADESEN COOKING POTS OVER HEALTH CONCERN',
+    title: 'FDA CALLS FOR BAN ON LEAD-LADEN "DADESEN" COOKING POTS OVER HEALTH CONCERNS',
     excerpt:
-      'Accra, december 4- Consumer Protection Agency Demands Withdrawal of Water and Electricity Tariff Increases',
+      'Accra, december 10- The Food and Drugs Authority (FDA) is sounding the alarm on locally manufactured cooking pots, known as "Dadesen", due to high levels of lead used in their production. ',
     content: `
-      <p class="mb-4">*FDA CALLS FOR BAN ON LEAD-LADEN "DADESEN" COOKING POTS OVER HEALTH CONCERNS*
-
-The Food and Drugs Authority (FDA) is sounding the alarm on locally manufactured cooking pots, known as "Dadesen", due to high levels of lead used in their production. The FDA's Eastern Regional Manager, Mrs. Anita Owusu-Kuffour, revealed this during a stakeholder engagement in Somanya, warning that the lead poses serious health risks, including Parkinson's disease, kidney failure, and cancer.
-
+      <p class="mb-4">The Food and Drugs Authority (FDA) is sounding the alarm on locally manufactured cooking pots, known as "Dadesen", due to high levels of lead used in their production. The FDA's Eastern Regional Manager, Mrs. Anita Owusu-Kuffour, revealed this during a stakeholder engagement in Somanya, warning that the lead poses serious health risks, including Parkinson's disease, kidney failure, and cancer.
 The FDA's market surveillance found that some local metalworkers add lead to soften metals during production, often unaware of the health implications. Even coated versions are not safe, as the protective layer can wear off, exposing users to heavy metals.
+Mrs. Owusu-Kuffour advised the public to switch to high-quality stainless-steel cookware, citing its safety and durability. The FDA assures the public of its continued monitoring and engagement with local artisans to ensure compliance with safety standards.
+Dadesen pots may contain lead, posing health risks.
+Switch to stainless steel cookware, FDA advises.
 
-Mrs. Owusu-Kuffour advised the public to switch to high-quality stainless steel cookware, citing its safety and durability. The FDA assures the public of its continued monitoring and engagement with local artisans to ensure compliance with safety standards.
-
-*Dadesen pots may contain lead, posing health risks*
-*Switch to stainless steel cookware, FDA advises*
-*Coated pots not safe, warns FDA*
 </p>
-     <h1>CPA DEMANDS:</h1>
-      <p class="mb-4">
+     
 
-•⁠  ⁠Withdrawal of tariff increases
-•⁠  ⁠Engagement with stakeholders to address inefficiencies
-•⁠  ⁠Plans to recover debts owed by state-owned institutions
-•⁠  ⁠Improved service delivery
-</p>
-
-      <h1>KEY ISSUES:</h1>
-      <p class="mb-4">
-
-•⁠  ⁠Unfair burden on consumers for galamsey cleanup costs
-•⁠  ⁠Inefficiencies in utility service providers not addressed
-•⁠  ⁠Lack of plans to recover debts owed by state-owned institutions</p>
     `,
     category: 'Lifestyle',
     image: joy1,
     images: [joy1],
+    slug: 'nca-multichoice-resolution',
+    updatedAt: '2025-09-07T09:15:00.000Z',
+  },
+
+   {
+    id: '9',
+    title: 'STAR OIL LAUNCHES "FUEL NOW, PAY LATER" INITIATIVE, REVOLUTIONIZING FUEL PURCHASES FOR COMMERCIAL DRIVERS.',
+    excerpt:
+      'Accra, december 10- Star Oil is encouraging other oil marketing companies to adopt similar credit-enabled solutions, and drivers can expect to see the rollout at selected Star Oil stations soon.',
+    content: `
+      <p class="mb-4">
+Star Oil has launched a game-changing initiative called "Fuel Now, Pay Later" that allows commercial drivers to buy fuel on credit using their Ghana card and individualized credit scoring system. This move is expected to provide much-needed financial relief to thousands of drivers across Ghana.
+Here's how it works: drivers download the myCredit Score app, register, and verify their account with their Ghana card. They can then buy fuel on credit at selected Star Oil outlets and pay later via mobile money. The credit limit is determined by the individual's credit rating 
+Former Vice President Dr Mahamudu Bawumia praised the initiative, stating it's a practical example of how digital infrastructure can empower citizens and stimulate economic growth. The launch is part of Ghana's broader push for individualized credit ratings, enabling products and services to offer credit based on verified creditworthiness 
+
+Star Oil is encouraging other oil marketing companies to adopt similar credit-enabled solutions, and drivers can expect to see the rollout at selected Star Oil stations soon.
+
+
+</p>
+     
+
+    `,
+    category: 'Lifestyle',
+    image: star1,
+    images: [star1],
     slug: 'nca-multichoice-resolution',
     updatedAt: '2025-09-07T09:15:00.000Z',
   },

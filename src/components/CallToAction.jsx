@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import businessAd from "../images/businessAd.jpg";
 import Azar from "../images/Azar.jpeg";
 
-import goil from "../images/goil.jpg";
+import star1 from "../images/star1.jpeg";
 
 
 export default function CallToAction() {
@@ -25,14 +25,15 @@ export default function CallToAction() {
       buttonText: "Shop Now",
       bgGradient: "from-blue-500 via-cyan-400 to-green-400",
     },
-    {
-      title: "⛽ GOIL – Your Trusted Energy Partner 🇬🇭",
-      description: "As Ghana’s leading oil marketing company, GOIL is committed to powering the nation with quality fuels, lubricants, and reliable energy solutions. With a strong presence across the country, GOIL stands for trust, innovation, and excellence – serving homes, businesses, and communities every day.",
-      img: goil,
-      link: "https://www.100jsprojects.com/",
-      buttonText: "Learn more",
-      bgGradient: "from-yellow-400 via-orange-500 to-red-500",
-    },
+   {
+  title: "⛽ Star Oil – Fuel Now, Pay Later",
+  description:
+    "Star Oil has introduced a groundbreaking solution for commercial drivers: *Fuel Now, Pay Later*. Drivers can now purchase fuel on credit using their Ghana Card and personalized credit score. By registering on the myCredit Score app, verifying their identity, and gaining an individualized credit limit, drivers can buy fuel at selected Star Oil stations and pay later via mobile money. This initiative delivers real financial relief and supports Ghana’s digital transformation agenda.",
+  img: star1,
+  link: "https://www.100jsprojects.com/",
+  buttonText: "Learn more",
+  bgGradient: "from-yellow-400 via-orange-500 to-red-500",
+},
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
