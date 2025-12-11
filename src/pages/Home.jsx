@@ -207,7 +207,7 @@ The statement concluded with a warning that consumers will not accept unjustifie
     image: hmm1,
     images: [hmm1,hmm2],
     slug: 'nca-multichoice-resolution',
-    updatedAt: '2025-09-07T09:15:00.000Z',
+    updatedAt: '2025-12-04T09:15:00.000Z',
   },
   {
     id: '8',
@@ -229,7 +229,7 @@ Switch to stainless steel cookware, FDA advises.
     image: joy1,
     images: [joy1],
     slug: 'nca-multichoice-resolution',
-    updatedAt: '2025-09-07T09:15:00.000Z',
+    updatedAt: '2025-10-10T09:15:00.000Z',
   },
 
    {
@@ -254,7 +254,7 @@ Star Oil is encouraging other oil marketing companies to adopt similar credit-en
     image: star1,
     images: [star1],
     slug: 'nca-multichoice-resolution',
-    updatedAt: '2025-09-07T09:15:00.000Z',
+    updatedAt: '2025-12-10T09:15:00.000Z',
   },
 ];
 
